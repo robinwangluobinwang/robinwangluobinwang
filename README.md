@@ -2,7 +2,7 @@
 - 👀 I’m interested in art and games
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...no I 'm not.lol
-- 📫 How to reach me -----can send me an email by wangrobin71@gmail.com
+- 📫 How to reach me -----can send me an email by robinwang71@proton.me
 
 <!---
 robinwangluobinwang/robinwangluobinwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
